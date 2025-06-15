@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "welcome to Chandan's account related local APIs - Production version"
+  message: "welcome to Chandan's account related local APIs - prod version"
   contactDetails:
     name: "Ananya Patil"
     email: "{cipher}8ed787bfa65e9e18dd35fd63398597e767648db536bc7d54b3cd7703f5d36962ba1ab7079efe1f519abb125bc8c71efc"
