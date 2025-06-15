@@ -2,7 +2,7 @@ build:
   version: "1.1"
 
 loans:
-  message: "welcome to Chandan's Loans related local APIs - prod"
+  message: "welcome to Chandan's Loans related local APIs - production version"
   contactDetails:
     name: "Loans Developer - prod"
     email: "chandan.p11@gmail.com"
