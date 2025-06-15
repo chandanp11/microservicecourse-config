@@ -2,7 +2,7 @@ build:
   version: "3.1"
 
 cards:
-  message: "welcome to Chandan's CARDs related local APIs - qa"
+  message: "welcome to Chandan's CARDs related local APIs - qa version"
   contactDetails:
     name: "Cards Developer - Default"
     email: "chandan.p11@gmail.com"
